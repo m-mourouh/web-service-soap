@@ -1,6 +1,7 @@
 <h1 style="text-align: center;">Web Service SOAP</h1>
 
-[![Maven](https://maven-badges.herokuapp.com/maven-central/cz.jirutka.rsql/rsql-parser/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cz.jirutka.rsql/rsql-parser)
+[![Maven](https://img.shields.io/maven-central/v/com.example/my-project.svg)](https://mvnrepository.com/artifact/com.example/my-project/4.0.0)
+
 
 ### WSDL
 
