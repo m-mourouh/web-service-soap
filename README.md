@@ -1,6 +1,7 @@
 <h1 style="text-align: center;">Web Service SOAP</h1>
 
-[![Maven](https://img.shields.io/maven-central/v/com.example/my-project.svg)](https://mvnrepository.com/artifact/com.example/my-project/4.0.0)
+![Maven metadata URL](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo.maven.apache.org%2Fmaven2%2Forg%2Frapidoid%2Frapidoid-pages%2Fmaven-metadata.xml&logo=maven&logoColor=red&color=hotpink&link=https%3A%2F%2Fmaven.apache.org%2Fdocs%2F4.0.0-alpha-2%2Frelease-notes.html)
+
 
 
 ### WSDL
