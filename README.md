@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Test Web service using SoapUI </h1>
+<h1 style="text-align: center;">Web Service SOAP</h1>
 
 ### WSDL
 
