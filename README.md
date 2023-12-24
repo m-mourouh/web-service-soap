@@ -7,7 +7,7 @@
 
 <img src="https://github.com/m-mourouh/web-service-soap/assets/60442896/d777572f-674b-4e59-b1b2-a2b4d74f1fcf" />
 
-### SOAPUI Tests
+# SOAPUI TESTS
 
 ### OPERATION: `conversionEuroToMad(double montant)` 
 <img src="https://github.com/m-mourouh/web-service-soap/assets/60442896/67891aea-6996-4e68-9097-7d456146df7d"/>
