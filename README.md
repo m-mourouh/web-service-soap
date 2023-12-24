@@ -1,7 +1,6 @@
 <h1 style="text-align: center;">Web Service SOAP</h1>
 
-![Maven metadata URL](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo.maven.apache.org%2Fmaven2%2Forg%2Frapidoid%2Frapidoid-pages%2Fmaven-metadata.xml&logo=maven&logoColor=red&color=hotpink&link=https%3A%2F%2Fmaven.apache.org%2Fdocs%2F4.0.0-alpha-2%2Frelease-notes.html)
-
+![Static Badge](https://img.shields.io/badge/Java-17-orange)  ![Static Badge](https://img.shields.io/badge/maven-4.0.0-hotpink)  
 
 
 ### WSDL
